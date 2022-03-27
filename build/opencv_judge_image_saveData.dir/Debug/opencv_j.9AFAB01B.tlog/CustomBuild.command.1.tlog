@@ -1,0 +1,10 @@
+^C:\USERS\TIENYU\DESKTOP\OPENCV_DEMO\OPENCV_JUDGE_IMAGE_SAVEDATA\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/TienYu/Desktop/OpenCV_demo/opencv_judge_image_saveData -BC:/Users/TienYu/Desktop/OpenCV_demo/opencv_judge_image_saveData/build --check-stamp-file C:/Users/TienYu/Desktop/OpenCV_demo/opencv_judge_image_saveData/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

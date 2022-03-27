@@ -1,0 +1,37 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.21/Modules/CMakeCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/CMakeCXXInformation.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/CMakeCommonLanguageInclude.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/CMakeGenericSystem.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/CMakeInitializeConfigs.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/CMakeLanguageInformation.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/CMakeRCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/CMakeSystemSpecificInformation.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/CMakeSystemSpecificInitialize.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/CPack.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/CPackComponent.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/CTest.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/CTestTargets.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/CTestUseLaunchers.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/Compiler/MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/Compiler/MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/DartConfiguration.tcl.in
+C:/Program Files/CMake/share/cmake-3.21/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/FindPackageMessage.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/Platform/Windows-MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/Platform/Windows-MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/Platform/Windows-MSVC.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/Platform/Windows.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/Platform/WindowsPaths.cmake
+C:/Program Files/CMake/share/cmake-3.21/Templates/CPackConfig.cmake.in
+C:/Users/TienYu/Desktop/OpenCV_demo/opencv_judge_image_saveData/CMakeLists.txt
+C:/Users/TienYu/Desktop/OpenCV_demo/opencv_judge_image_saveData/build/CMakeFiles/3.21.1/CMakeCCompiler.cmake
+C:/Users/TienYu/Desktop/OpenCV_demo/opencv_judge_image_saveData/build/CMakeFiles/3.21.1/CMakeCXXCompiler.cmake
+C:/Users/TienYu/Desktop/OpenCV_demo/opencv_judge_image_saveData/build/CMakeFiles/3.21.1/CMakeRCCompiler.cmake
+C:/Users/TienYu/Desktop/OpenCV_demo/opencv_judge_image_saveData/build/CMakeFiles/3.21.1/CMakeSystem.cmake
+D:/opencv/build/x64/vc15/lib/OpenCVConfig-version.cmake
+D:/opencv/build/x64/vc15/lib/OpenCVConfig.cmake
+D:/opencv/build/x64/vc15/lib/OpenCVModules-debug.cmake
+D:/opencv/build/x64/vc15/lib/OpenCVModules-release.cmake
+D:/opencv/build/x64/vc15/lib/OpenCVModules.cmake
